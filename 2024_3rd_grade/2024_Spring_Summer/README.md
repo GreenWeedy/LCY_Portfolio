@@ -1,2 +1,2 @@
-# [대외활동](./Self-driving)
-# [정규수업](./Course_projects)
+# [정규수업](./Course_Projects)
+# [대외활동](./Extracurricular_Activity)
