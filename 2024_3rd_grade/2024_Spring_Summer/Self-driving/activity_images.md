@@ -9,4 +9,3 @@
 ![img](images/09.jpg)
 ![img](images/10.jpg)
 ![img](images/11.jpg)
-![img](images/12.jpg)
