@@ -1,1 +1,1 @@
-![Page 1](.png)
+![Page 1](ASCC.pdf)
