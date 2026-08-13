@@ -1,1 +1,1 @@
-![Page 1](images/01.png)
+![Page 1](images/01.jpg)
