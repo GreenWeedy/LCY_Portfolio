@@ -10,7 +10,7 @@
 ![Page 1](images/C_05.jpg)
 ![Page 1](images/C_06.jpg)
 ![Page 1](images/C_07.jpg)
-![Page 1](images/C_08.jpg)
+![Page 1](images/C_08.png)
 
 ---
 ### 렌더링 디자인
