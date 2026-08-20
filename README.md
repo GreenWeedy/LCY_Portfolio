@@ -1,5 +1,9 @@
-# Curriculum Vitae
+# 유찬영 (ChanYung Lyu) Portfolio
+## [2024학년도 3학년](./2024_3rd_grade)
+## [2025학년도 4학년](./2025_4th_grade)
+---
 
+# Curriculum Vitae
 
 ![Page 1](images/CV_1.png)
 
